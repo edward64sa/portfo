@@ -1,0 +1,35 @@
+[
+  {
+    "title": "ARCADE",
+    "subtitle": " Discover, play and Be the first to see what's coming made with React and Arcade api ",
+    
+    "align": "justify",
+    "link": "https://cute-entremet-a7a443.netlify.app/"
+  },
+  {
+    "title": "Youtube UI Clone",
+    "subtitle": "Responsive Ui clone with Youtube Api you can watch and play videos",
+   
+    "align": "justify",
+    "link": "https://bucolic-otter-e3cfea.netlify.app/"
+  },
+  
+  {
+    "title": "My Trip",
+    "subtitle": "You can provide or take Home renting services made with Next , Kinde auth and Supabase",
+    
+    "align": "justify",
+    "link": "https://mytrip-rho-lemon.vercel.app/"
+  },
+  {
+    "title": "Pokédex",
+    "subtitle": "Pokédex made with Vue.js and PokeAPI",
+    
+    "align": "justify",
+    "link": "https://pokedex-list.netlify.app/"
+  }
+ 
+ 
+ 
+
+]
